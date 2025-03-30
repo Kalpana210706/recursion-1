@@ -1,7 +1,3 @@
 {
-    "files.associations": {
-        "type_traits": "cpp",
-        "initializer_list": "cpp",
-        "valarray": "cpp"
-    }
+    "C_Cpp.errorSquiggles": "enabled"
 }
